@@ -25,3 +25,5 @@ https://vk.com/video229874529_456239226
 public static InputArgs parseCmdArgs(String[] args)
 InputArgs – класс, в котором описаны поля inputFile и outputFile (и, возможно, какие-от другие параметры в зависимости от задачи).
 По возможности перебирать элементы списка циклом for(Integer v: list ).
+
+  ![task_9_15](https://user-images.githubusercontent.com/90615357/148708464-8c697f92-52b0-4fa0-aacb-51cad7424e00.png)
